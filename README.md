@@ -51,7 +51,7 @@ Pivot and have fun:
 
 `proxychains <tool_name>`
 
-Pre-built Windows client binary available at the `dist` folder
+Pre-built Windows client binary available in release section.
 
 Author
 ------
