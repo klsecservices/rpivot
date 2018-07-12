@@ -47,6 +47,14 @@ Edit /etc/proxychains.conf:
 socks4 127.0.0.1 1080
 ```
 
+Using single zip file mode:
+
+```
+zip rpivot.zip -r *.py ./ntlm_auth/
+python rpivot.zip server <server_options>
+python rpivot.zip client <client_options> 
+```
+
 Pivot and have fun:
 
 `proxychains <tool_name>`
